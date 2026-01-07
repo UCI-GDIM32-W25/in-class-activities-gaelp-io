@@ -8,12 +8,19 @@ My table discussed various methods to be able to ace this class, one being to ma
 ### Activity 2 
 
 Q1: The value of x after those lines of code would be 10.
+
 Q2: The value of x is 2, this is a loop so everytime x is less than 2 it adds 1, then once x reaches the value of 2 the loop stops.
+
 Q3: This line of code enters the phrase "hello world" into the debug.log that can be seen in Unity when playtesting your current game.
+
 Q4: The classes they are usable in are MonoBehaviours, so the ??? should be replaced by "MonoBehaviour".
+
 Q5: Private void start is what starts the line of code and Print message(10) essentially makes 10 the value the next line of code will use since it is an argument. So when it says Debug.log("x =" + x); then the console will show x = 10 in the debug log.
+
 Q6: 10 is the argument or value being assigned to print message while "x =" + x is a string which the argument/value 10 is being sent to.
+
 Q7: Transform should not be capatilized in the line "Transform.Translate(_direction);".
+
 Q8: We should change "Transform" to "transform" so that it is no longer a class and instead becomes an instance that is attatched to the GameObject.
 
 ### Activity 3
