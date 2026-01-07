@@ -19,9 +19,9 @@ Q5: Private void start is what starts the line of code and Print message(10) ess
 
 Q6: 10 is the argument or value being assigned to print message while "x =" + x is a string which the argument/value 10 is being sent to.
 
-Q7: Transform should not be capatilized in the line "Transform.Translate(_direction);".
+Q7: Transform should not just be "Transform" in the line "Transform.Translate(_direction);".
 
-Q8: We should change "Transform" to "transform" so that it is no longer a class and instead becomes an instance that is attatched to the GameObject.
+Q8: We should change "Transform" to "_playerTransform" so that it is referring to that specific GameObject
 
 ### Activity 3
 
