@@ -1,13 +1,21 @@
 # GDIM32 In Class Activities
-## Instructions
-Put each week's activities under new headers like the one shown above. Headers are created with the # symbol. More # symbols = smaller header.
+## Week 1 In Class Activity
 
+### Actvity 1
 
-Hit enter TWICE to create a new line.
+My table discussed various methods to be able to ace this class, one being to make sure you attend the lectures so that you are able to ask any questions you may have about the topic being discussed. As well as doing the pre-learning so that you don't fall behind your peers and that you know what you will be learning in the next lecture. It's also important to ask any pressing questions right away instead of waiting because waiting too long could lead to getting a solution too late or not getting a solution at all.
 
+### Activity 2 
 
-- Create bullet points by writing dashes.
-- Here's another bullet point entry.
+Q1: The value of x after those lines of code would be 10.
+Q2: The value of x is 2, this is a loop so everytime x is less than 2 it adds 1, then once x reaches the value of 2 the loop stops.
+Q3: This line of code enters the phrase "hello world" into the debug.log that can be seen in Unity when playtesting your current game.
+Q4: The classes they are usable in are MonoBehaviours, so the ??? should be replaced by "MonoBehaviour".
+Q5: Private void start is what starts the line of code and Print message(10) essentially makes 10 the value the next line of code will use since it is an argument. So when it says Debug.log("x =" + x); then the console will show x = 10 in the debug log.
+Q6: 10 is the argument or value being assigned to print message while "x =" + x is a string which the argument/value 10 is being sent to.
+Q7: Transform should not be capatilized in the line "Transform.Translate(_direction);".
+Q8: We should change "Transform" to "transform" so that it is no longer a class and instead becomes an instance that is attatched to the GameObject.
 
+### Activity 3
 
-Remove all placeholder text in order to get full credit for README file formatting.
+[Google Doc on HW1 on Itch](https://docs.google.com/document/d/1y5LOXHts-EvqE00ku0UjBCC5AgohWl3lteMNVPOctuo/edit?tab=t.0)
