@@ -31,3 +31,5 @@ Q8: We should change "Transform" to "_playerTransform" so that it is referring t
 
 ### Activity 1
 
+![in class activity](https://github.com/user-attachments/assets/f7ec7a63-e29d-4f5a-9744-6fc001a5af6d)
+
