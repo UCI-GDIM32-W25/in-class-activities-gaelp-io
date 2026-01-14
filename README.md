@@ -26,3 +26,8 @@ Q8: We should change "Transform" to "_playerTransform" so that it is referring t
 ### Activity 3
 
 [MG1 Breakdown Google Doc](https://docs.google.com/document/d/1y5LOXHts-EvqE00ku0UjBCC5AgohWl3lteMNVPOctuo/edit?tab=t.0)
+
+## Week 2 In Class Activity
+
+### Activity 1
+
