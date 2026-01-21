@@ -47,4 +47,5 @@ Buddy Name: Jeremiah Yang
 Buddy Name: Jeremiah Yang
 
 ### Activity 3
+![IMG_1973](https://github.com/user-attachments/assets/3ce3c7d4-8ad8-474a-848d-bcff6de54568)
 
