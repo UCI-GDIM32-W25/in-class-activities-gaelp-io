@@ -37,3 +37,14 @@ Q8: We should change "Transform" to "_playerTransform" so that it is referring t
 
 [Added Penguin and it can jump](https://github.com/UCI-GDIM32-W25/mg2-gaelp-io/commit/d77123579b72f8219ddd97ef919c6ea2d7040f79)
 Here I added the penguin/player gameobject by adding a sprite renderer, choosing a sprite of a penguin sliding, a rigidbody 2D, and a box collider 2D. I also made it so the penguin has a player script so that when you press space it jumps!
+
+## Week 3 In Class Activity
+
+### Activity 1
+Buddy Name: Jeremiah Yang
+
+### Activity 2
+Buddy Name: Jeremiah Yang
+
+### Activity 3
+
