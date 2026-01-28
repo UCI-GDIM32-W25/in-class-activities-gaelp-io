@@ -59,3 +59,7 @@ When I run the game with multiple Locator gameobjects, the scripts for all of th
 
 ### Activity 2
 ![In class activity drawing](https://github.com/user-attachments/assets/de9b8df7-4e45-4583-b4e5-4b23fcd37998)
+
+### Activity 3
+[Added bird, grass, and fixed aspect ratio](https://github.com/gaelp-io/HW4/commit/12c80ea3195fb09874147855bc37950c6a448e98)
+I added the sprites for the bird, pipes, and grass, as well as physically added the playe game object with the bird sprite and box collider 2D and the grass as terrain that also has a box collider 2D.
