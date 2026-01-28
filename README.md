@@ -58,3 +58,4 @@ Buddy Name: Jeremiah Yang
 When I run the game with multiple Locator gameobjects, the scripts for all of the Locator gameobjects except for one destroy themselves.
 
 ### Activity 2
+![In class activity drawing](https://github.com/user-attachments/assets/de9b8df7-4e45-4583-b4e5-4b23fcd37998)
