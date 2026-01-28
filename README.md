@@ -56,3 +56,5 @@ Buddy Name: Jeremiah Yang
 
 ### Activity 1
 When I run the game with multiple Locator gameobjects, the scripts for all of the Locator gameobjects except for one destroy themselves.
+
+### Activity 2
