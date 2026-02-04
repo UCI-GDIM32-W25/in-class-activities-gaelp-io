@@ -79,7 +79,7 @@ public class ElvenSword : Item {
 }
 
 public class Torch : Item, IBreakable {
-	private float _durability = 1.0f;
+	private float _durability = 5.0f;
 
 	public void Damage (float damage) {
 		_durability -= damage;
