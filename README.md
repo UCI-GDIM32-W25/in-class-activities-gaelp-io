@@ -77,10 +77,10 @@ The classes like public class ItemW5Demo2 : ScriptableObject act as the model si
 The design patterns that would work best for this scenario would be a singleton to act as the game controller and inheritance with polymorphism since abstract classes would work best here. Abstract classes would be used to make a common class that all child classes would need to use their methods from, and then within the child classes we can specify their attributes depending on what type of beat they are. An abstract class would make the most sense since we want to implement shared behaviour and member variables for the child classes. An example of an abstract class in a rythm game could be public abstract class hit where the method inside would be labeled beathit or something similar so that each child class would need to implement that method since all beats need to be hit and need to determine what happens if they are hit or not.
 
 #### Scenario 2
-
+Abstract classes would probably also work best here to have all characters have the same basic movement while allowing child classes to make more specific attributes for each character.
 
 #### Scenario 3
-
+States could be useful for planting, mining, or even growth states of each plant like if it were a seed to a sapling to a full grown tree. For plant growth states wouldn't be used since plants can't grow backwards and states can be changed in a non-linear way.
 
 ### Activity 4
 Attendance: Gael Porras, Jeremiah Yang
