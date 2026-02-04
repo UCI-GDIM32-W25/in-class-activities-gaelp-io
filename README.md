@@ -84,3 +84,4 @@ I would probably keep the design of these interfaces and abstracts the same sinc
 
 ### Activity 4
 Attendance: Gael Porras, Jeremiah Yang
+Proposal: [Final Project Proposal First Draft](link)
