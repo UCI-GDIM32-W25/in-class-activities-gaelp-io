@@ -70,7 +70,7 @@ I added the sprites for the bird, pipes, and grass, as well as physically added 
 I would probably keep the design of these interfaces and abstracts the same since IBreakable holds multiple methods to call for when an item gets damaged and then ultimately breaks once its durability reaches 0 or less since each class inherits from IBreakable. With the abstract class, each item can simply call the use method since they inherit from Item. Since IBreakable is an interface class it also allows the items to inherit from both the abstract Item class and the IBreakable interface class.
 
 ### Activity 2
-
+The classes like public class ItemW5Demo2 : ScriptableObject act as the model since they are the code and data of the scriptable objects. However, the CreateAssetMenu is the controller since in Unity it shows up in the inspector and allows you to change specific attributes of a scriptable object like health, names, and even dialouge lines. The View part would be the text that pops up whenever a player opens their inventory (which shows their items) and whenever they get near an enemy where they will then play their dialouge line and have it pop up as text.
 
 ### Activity 3
 #### Scenario 1
