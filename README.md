@@ -68,3 +68,19 @@ I added the sprites for the bird, pipes, and grass, as well as physically added 
 
 ### Activity 1
 I would probably keep the design of these interfaces and abstracts the same since IBreakable holds multiple methods to call for when an item gets damaged and then ultimately breaks once its durability reaches 0 or less since each class inherits from IBreakable. With the abstract class, each item can simply call the use method since they inherit from Item. Since IBreakable is an interface class it also allows the items to inherit from both the abstract Item class and the IBreakable interface class.
+
+### Activity 2
+
+
+### Activity 3
+#### Scenario 1
+
+
+#### Scenario 2
+
+
+#### Scenario 3
+
+
+### Activity 4
+Attendance: Gael Porras, Jeremiah Yang
