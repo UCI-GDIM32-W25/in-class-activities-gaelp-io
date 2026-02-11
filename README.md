@@ -99,4 +99,5 @@ You can go deeper into the hierarchies to see what is making the system take so 
 
 ### Activity 2
 Attendance: Gael Porras, Jeremiah Yang
+
 [Final Project Proposal Final Draft](link)
