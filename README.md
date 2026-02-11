@@ -86,3 +86,9 @@ States could be useful for planting, mining, or even growth states of each plant
 Attendance: Gael Porras, Jeremiah Yang
 
 Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/d/1-4LVGJgfxqEb7zRdfGDfO5tOJxruOldH0SpWawnbftE/edit?tab=t.0#heading=h.wcm5jag04eng)
+
+## Week 6 In Class Activity
+
+### Activity 1
+Notes:
+- <<<<<<< HEAD shows the beginning of your code, ======== shows the split where the other's persons code will begin, and >>>>>> shows the end of the merge conflict lines. Visual Studio offers various solutions to your merge conflict and choosing one should lead to the alligator lines disappearing which means the merge conflict has been resolved. You can then push the resolved code so the rest of your teammates can work on the project. This will be especially helpful in our final project since merge conflicts seem inevitable with a lot of people working on the same project, and now we know how to resolve merge conflicts!
