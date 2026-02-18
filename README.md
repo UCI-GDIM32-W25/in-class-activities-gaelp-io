@@ -101,3 +101,29 @@ You can go deeper into the hierarchies to see what is making the system take so 
 Attendance: Gael Porras, Jeremiah Yang
 
 [Final Project Proposal Final Draft](https://docs.google.com/document/d/1-4LVGJgfxqEb7zRdfGDfO5tOJxruOldH0SpWawnbftE/edit?tab=t.0)
+
+## Week 7 In Class Activity
+
+### Activity 1
+Notes:
+- Gizmo can show obstructions in an NPC's line of sight towards a player
+- Gizmo also shows dot where obstruction is (like the dot on the tree since that is where the line of sight of the duck is obstructed)
+- Finite State Machine is used on the duck (wandering state and pursue state) so if the player enters the duck's line of sight then the duck changes states
+- States don't happen at the same time (mutually exclusive) and the duck can go back forth between these states (if the duck loses sight of the player then he goes back from pursue state to wandering state until the duck sees the player in their line of sight again)
+- Update method is changing and using the state member variable
+- Vectors are used to represent out position and movement within the game
+- Raycast is used as the duck's line of sight (in the scene it is represented as the red line petruding from the duck)
+- The red line/line of sight is being drawn by the gizmos code so it can only be seen in the scene
+- using a player tag to check if the raycast hit the player allows for obstacles like trees to obstruct the line of sight of the duck
+- Spherecast is like a raycast but instead of an arrow it is looking within an area using a sphere shape (this allows obstacles that wouldn't normally be seen by the duck, like a short table, to be seen by the spherecast)
+
+### Activity 2
+Attendance: Gael Porras, Jeremiah Yang
+
+### Activity 3
+
+
+### Activity 4
+[GDIM 32 Final Taskboard](https://docs.google.com/document/d/1qcCvx221nZpAMjmwJdpyKQ7kBxEmTlBFmETyLgA6mj8/edit?tab=t.0)
+
+### Activity 5
