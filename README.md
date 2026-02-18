@@ -128,3 +128,5 @@ Attendance: Gael Porras, Jeremiah Yang
 [GDIM 32 Final Taskboard](https://docs.google.com/document/d/1qcCvx221nZpAMjmwJdpyKQ7kBxEmTlBFmETyLgA6mj8/edit?tab=t.0)
 
 ### Activity 5
+[Added Simple Environment](https://github.com/1234321blue/GDIM32-Final/commit/fe22adbcc4a8ab870a05f8f296c25d29167e406c)
+Here I simply added a very basic environment for our game, I plan on adding more detail later but for now this will serve as a baseplate for adding the NPC and player themsevles. That way, when we need to do some play testing we will be able to visualize how the game would look compared to testing on an empty plate in the void.
