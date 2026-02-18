@@ -121,6 +121,7 @@ Notes:
 Attendance: Gael Porras, Jeremiah Yang
 
 ### Activity 3
+![final project break down week 7 activity](https://github.com/user-attachments/assets/d6e95fb3-cb73-4156-aec8-f3bef1808ee4)
 
 
 ### Activity 4
