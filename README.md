@@ -130,3 +130,29 @@ Attendance: Gael Porras, Jeremiah Yang
 ### Activity 5
 [Added Simple Environment](https://github.com/1234321blue/GDIM32-Final/commit/fe22adbcc4a8ab870a05f8f296c25d29167e406c)
 Here I simply added a very basic environment for our game, I plan on adding more detail later but for now this will serve as a baseplate for adding the NPC and player themsevles. That way, when we need to do some play testing we will be able to visualize how the game would look compared to testing on an empty plate in the void.
+
+## Week 8 In Class Activity
+
+### Activity 1
+Notes:
+- Rendering Pipeline is a sequence of instructions that tells the game how to render
+- Make sure you have the right compatability whenever downloading assests (if RP is none then make sure it is "Built-in" compatible)
+- Post-processing effects are shaders that affect the look of oyur entire screen (ex. a bloom post-processing effect is applied to the game)
+- Instal post-processing package in package manager in Unity (find it and hit install to install the package)
+- Add a new object and add a post-processing layer to edit what the post-processing looks like in game
+- Find and use effects that are compatible (test it) so that it won't lag your game
+
+### Activity 2
+Attendance: Gael Porras, Jeremiah Yang
+
+### Activity 3
+Playtesting Notes:
+- If you say no to NPC another one comes up instead asking for something else
+- Items to add: gun
+
+### Activity 4
+The task I will work on this week is finishing the environment, adding background music, and help on player movement/dialouge code
+
+### Activity 5
+[Added Background Music](https://github.com/1234321blue/GDIM32-Final/commit/0bf418cfb5bc15fab74af4f017cd149df4dce3ed)
+Here I added background music for the game and later changed the track to a better one!
