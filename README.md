@@ -156,3 +156,29 @@ The task I will work on this week is finishing the environment, adding backgroun
 ### Activity 5
 [Added Background Music](https://github.com/1234321blue/GDIM32-Final/commit/0bf418cfb5bc15fab74af4f017cd149df4dce3ed)
 Here I added background music for the game and later changed the track to a better one!
+
+## Week 9 In Class Activity
+
+### Activity 1
+Notes:
+- Code dialogue to make it easy to add or remove dialogue options
+- Have Nodes that the player can return to (like a hub point)
+- Can't have exponential amount of dialogue, should have a point to return to
+- Have code in canvas that hooks the button up to the component of the NPC that is actually talking
+
+### Activity 2
+Attendance: Gael Porras, Jeremiah Yang
+
+### Activity 3
+Playtesting Notes:
+- Add Checklist for items asked for by neighbour (checklist)
+- Add more unqiue dialogue options
+- Add violent items
+- Add Crosshair
+
+### Activity 4
+We're a bit behind on the project since we need a 3D model for the NPC to add 2 unique 3D animations. However, in the scope of our project it is possible to be able to finish on time since the reason for being behind wasn't because of our plan but because we were lacking on actually getting our tasks done. This upcoming week we will do better and get things done as soon as possible in order to playtest and see what errors there are or what we need to add.
+
+### Activity 5
+[Push](link)
+Here I added
