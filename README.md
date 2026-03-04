@@ -180,5 +180,5 @@ Playtesting Notes:
 We're a bit behind on the project since we need a 3D model for the NPC to add 2 unique 3D animations. However, in the scope of our project it is possible to be able to finish on time since the reason for being behind wasn't because of our plan but because we were lacking on actually getting our tasks done. This upcoming week we will do better and get things done as soon as possible in order to playtest and see what errors there are or what we need to add.
 
 ### Activity 5
-[Push](link)
-Here I added
+[added crosshair and fixed mouse sensitivity](https://github.com/1234321blue/GDIM32-Final/commit/d1d0c55d50bea2a0597956c0c2859b2f388881bd)
+Here I added a crosshair for players to see exactly where there looking since that was a main request from playtesters. I'll also add a "press Q to drop" at the bottom corner when players are holding an item so they know what button to press to drop an item.
