@@ -182,3 +182,22 @@ We're a bit behind on the project since we need a 3D model for the NPC to add 2 
 ### Activity 5
 [added crosshair and fixed mouse sensitivity](https://github.com/1234321blue/GDIM32-Final/commit/d1d0c55d50bea2a0597956c0c2859b2f388881bd)
 Here I added a crosshair for players to see exactly where there looking since that was a main request from playtesters. I'll also add a "press Q to drop" at the bottom corner when players are holding an item so they know what button to press to drop an item.
+
+## Week 10 In Class Activity
+
+### Activity 1
+Attendance: Gael Porras, Jeremiah Yang
+
+### Activity 2
+Playtesting Notes:
+- Add in more interactable items
+- Add in filler dialogue for in between giving quests
+- Make it easier to interact with NPC (bigger hitbox, indicator with some in game object or UI like a basket at their feet)
+- Locked Camera for better sense of movement (can't look up but can still look down and left to right)
+
+### Activity 3
+Right now we're pretty on track we just mostly have to polish the game itself and have an "end" sequence. In the scope of things we kept our main idea but strayed away from violence and are leaning more toward humorous reactions from the NPC.
+
+### Activity 4
+[fixed camera a little (still needs work) and uploaded to itch test build](https://github.com/1234321blue/GDIM32-Final/commit/f4ee8a79e5ee589433672f213a6730ff06bf88f2)
+Here I attempted to fix the camera and was able to make it a bit smoother when looking left and right but we still need to properly make it smooth and also lock the up direction from being used since it isn't necessary for our game.
